@@ -34,3 +34,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - pig
 - bears
 - bird
+- Tiger
+- Dog
